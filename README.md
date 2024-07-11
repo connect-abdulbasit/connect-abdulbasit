@@ -1,6 +1,6 @@
 # Hi there 👋 
 
-- I am a front-end developer and a student doing Bachelors in Computer Science
+- I am a full stack developer and a student doing Bachelors in Computer Science
 - Passionate about Web Technologies & Logical Thinking
 - Focused on JavaScript and its Ecosystem
 
@@ -15,6 +15,12 @@
 <a href="https://reactjs.org/docs/getting-started.html">
 <img height=25 src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">&nbsp;&nbsp;
 </a>
+<a href="http://expressjs.com/en/starter/installing.html">
+<img height=25 src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">&nbsp;&nbsp;
+</a>
+<a href="https://nodejs.org/en/">
+<img height=25 src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">&nbsp;&nbsp;
+</a>
 
 #### **Visual Design Libraries**:
 
@@ -23,6 +29,13 @@
 </a>
 <a href="https://www.chartjs.org/">
 <img height=25 src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white">&nbsp;&nbsp;
+</a>
+  
+#### **Databases**:
+
+
+<a href="https://www.mongodb.com/docs/manual/introduction/">
+<img height=25 src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">&nbsp;&nbsp;
 </a>
   
 #### **Other Languages and Frameworks**:
