@@ -1,6 +1,6 @@
 # Hi there 👋 
 
-- I am a full stack developer and a student doing Bachelors in Computer Science
+- I am a MERN stack developer and a student doing Bachelors in Computer Science
 - Passionate about Web Technologies & Logical Thinking
 - Focused on JavaScript and its Ecosystem
 
