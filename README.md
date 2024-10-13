@@ -6,6 +6,7 @@
 
 ---
 
+
 ### 🔭 **Technology Stack**
 
 #### **Languages**:
@@ -15,12 +16,17 @@
 <a href="https://reactjs.org/docs/getting-started.html">
 <img height=25 src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">&nbsp;&nbsp;
 </a>
-<a href="http://expressjs.com/en/starter/installing.html">
-<img height=25 src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">&nbsp;&nbsp;
+<a href="https://nextjs.org/">
+<img height=25 src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white">
 </a>
 <a href="https://nodejs.org/en/">
 <img height=25 src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">&nbsp;&nbsp;
 </a>
+<a href="http://expressjs.com/en/starter/installing.html">
+<img height=25 src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">&nbsp;&nbsp;
+</a>
+
+
 
 #### **Visual Design Libraries**:
 
@@ -54,7 +60,7 @@
 <a href="https://devdocs.io/cpp/">
 <img height=25 src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">&nbsp;&nbsp;
 </a>
-
+  
 ## 📈 My Github Stats
 
 <p align="center">
