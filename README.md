@@ -42,10 +42,14 @@
   
 #### **Databases**:
 
-
 <a href="https://www.mongodb.com/docs/manual/introduction/">
 <img height=25 src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">&nbsp;&nbsp;
 </a>
+
+<a href="https://supabase.com/docs">
+<img height=25 src="https://img.shields.io/badge/Supabase-%233FCF8E.svg?style=for-the-badge&logo=supabase&logoColor=white">&nbsp;&nbsp;
+</a>
+
   
 #### **Other Languages and Frameworks**:
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
