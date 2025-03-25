@@ -1,4 +1,4 @@
-# Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=93a19f&size=30&lines=Hi,+I'm+Abdul+Basit;Backend+Developer;Building+Scalable+Web+Apps;Exploring+AI+and+Tech!)](https://git.io/typing-svg)
 
 I am a **Full-Stack Developer** specializing in **MERN stack** and currently pursuing a **Bachelor’s in Computer Science**. Passionate about **Web Technologies** & **Logical Thinking**, with a focus on **JavaScript and its Ecosystem**.
 
