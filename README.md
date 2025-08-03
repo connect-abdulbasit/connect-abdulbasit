@@ -4,6 +4,7 @@ Hi, thanks for stopping by! I'm **Abdul Basit**, a passionate **Full-Stack Devel
 
 Whether it’s building scalable backend systems or crafting snappy UIs, I enjoy solving meaningful problems using **JavaScript and its powerful ecosystem**. Always learning, always shipping.
 
+🔗 **Check out my portfolio**: [portfolio-abdulbasit-cs.netlify.app](https://portfolio-abdulbasit-cs.netlify.app/)
 
 ## 🚀 Tech Toolbox
 
